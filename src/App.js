@@ -262,6 +262,9 @@ function App() {
         style={{ backgroundImage: "url(" + bg + ")" }} >
         <Example />
         <Team />
+        <Team />
+        <Team />
+        <Team />
        
       </div>
     </>
